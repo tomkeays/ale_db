@@ -1,0 +1,41 @@
+.required {
+  color: red; 
+}
+
+table { 
+  border-collapse: collapse;
+}
+
+.grid {
+  border: 1px solid #cccccc;
+  margin-top: 5px;
+  padding: 2px;
+  padding-right: 6px;
+  padding-left: 6px;
+}
+
+.footer {
+  padding-top: 5px;
+  border-top: 1px solid #cccccc;
+}
+
+input.entry, textarea.entry {
+  width: 460px;
+}
+
+input, textarea {
+  border: 1px solid #ccc;
+}
+
+input:focus, textarea:focus {
+  border: 1px solid #000;
+}
+
+div.shirt_orders {
+  text-indent: 0em;
+} 
+
+div.shirt_orders:first-line {
+  text-indent: -3em;
+} 
+
